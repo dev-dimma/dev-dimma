@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-##<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&&customColorList=&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=47&animation=fadeIn)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&reversal=true)
 
 
 <!--
