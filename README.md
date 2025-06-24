@@ -90,7 +90,7 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 ![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=moltack&show_owner=false&card_width=510&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=moltack&langs_count=6&card_width=330&hide_border=true)
  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=moltack&hide_border=true&border_radius=5&card_width=1000&card_height=200)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=moltack&hide_border=true&border_radius=10&card_width=1000&card_height=200)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=footer&reversal=true)
