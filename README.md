@@ -84,12 +84,19 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 
 <h2>My GitHub History</h2>
 <p align="left">
-  
+
+  <img src="https://komarev.com/ghpvc/?username=dev-dimma&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dimma" /> 
+
 ![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=moltack&show_owner=false&card_width=510&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=moltack&langs_count=6&card_width=320&hide_border=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dimma&label=Profile%20views&color=0e75b6&style=flat" alt="dimma-joel" /> </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=1000&card_height=200)
+<p align="left" justify="center"> 
+
+<img align="center" style="width:12rem" style="height:12rem"  src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="dev-dimma" />
+
+</p>
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=moltack&hide_border=true&border_radius=5&card_width=1000&card_height=200)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=footer&reversal=true)
