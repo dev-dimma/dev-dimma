@@ -86,7 +86,7 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 <p align="left">
   
 ![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=moltack&show_owner=false&card_width=500&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=moltack&langs_count=6&card_width=300&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=moltack&langs_count=6&card_width=350&hide_border=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dimma&label=Profile%20views&color=0e75b6&style=flat" alt="dimma-joel" /> </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=1000&card_height=200)
