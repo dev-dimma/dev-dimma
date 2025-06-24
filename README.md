@@ -85,9 +85,7 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 <h2>My GitHub History</h2>
 <p align="left">
 
-<!--WAKATIME-TOTAL:START-->
-WakaTime: Loading...
-<!--WAKATIME-TOTAL:END-->
+[![wakatime](https://wakatime.com/badge/user/c31c081f-5a87-4d68-bd04-f74d7be66323.svg)](https://wakatime.com/@c31c081f-5a87-4d68-bd04-f74d7be66323)
 
 ![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=moltack&show_owner=false&card_width=510&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=moltack&langs_count=6&card_width=330&hide_border=true)
