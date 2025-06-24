@@ -58,8 +58,8 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45" />  
 </p>
 
-[![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=moltack&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=400px)
+[![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=vision-friendly-dark&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=vision-friendly-dark)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=footer&reversal=true)
 
