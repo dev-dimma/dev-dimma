@@ -1,6 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=47&animation=scaleIn&fontColor=f7ead1)
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=dev-dimma&theme=vision-friendly-dark" alt="dev-dimma's streak" /></p>
+<h1 align="center">
+  Let's Connect and Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://portfolio-website-six-bice-55.vercel.app/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/dimma-joel-technology-frontend-developer-dev-dimma-technical-writer/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://x.com/devdimma">
+  <img height="55" src="https://github.com/user-attachments/assets/3b1fb8b2-8bb6-44f2-bb2a-9eacc00f06fa"/>
+</a>
+<a href="https://www.instagram.com/devdimma/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100070534024304/">
+  <img height="55" src="https://github.com/user-attachments/assets/9753ba3d-0e0e-46e9-97c7-fc9a7c493577"/>
+</a>
+</p>
+
+---
 
 <h2>A little bit about me and my interests</h2>
 <p align="left">
@@ -43,6 +65,8 @@ strengths: ["Fast Learning and Adaptability, Problem solving, Teamwork,
 hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 ```
 
+<p align="center"><img src="https://streak-stats.demolab.com?user=dev-dimma&theme=vision-friendly-dark" alt="dev-dimma's streak" /></p>
+
 <h2>Tech Stack and Tools I Have Used and Mastered</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -65,18 +89,5 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
   
 ![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=vision-friendly-dark&show_owner=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=vision-friendly-dark&langs_count=6)
-
-<h2>Let's Connect And Chat</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/dimma-joel-technology-frontend-developer-dev-dimma-technical-writer/overlay/background-image/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="dimma's linkedin" height="40" width="40" /></a>
-<a href="https://x.com/devdimma" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" color="white" alt="dimma's X" height="40" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100070534024304" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="dimma's facebook" height="40" width="40" /></a>
-
-  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
-</p>
-
-
-            
-          
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=footer&reversal=true)
