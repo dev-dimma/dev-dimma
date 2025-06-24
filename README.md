@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=47&animation=scaleIn&fontColor=f7ead1)
 
 <h1 align="center">
-  Let's Connect and Chat!💬
+  Let's connect and chat!💬
 </h1>
 
 <p align="center">
@@ -65,8 +65,6 @@ strengths: ["Fast Learning and Adaptability, Problem solving, Teamwork,
 hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 ```
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=dev-dimma&theme=vision-friendly-dark" alt="dev-dimma's streak" /></p>
-
 <h2>Tech Stack and Tools I Have Used and Mastered</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -89,5 +87,7 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
   
 ![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=vision-friendly-dark&show_owner=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=vision-friendly-dark&langs_count=6)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=5000&card_height=200)](https://git.io/streak-stats)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=footer&reversal=true)
