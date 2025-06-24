@@ -87,8 +87,8 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 
 <img align="center" style="width:12rem" style="height:12rem"  src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="dev-dimma" />
 
-![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=moltack&show_owner=false&card_width=520&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=moltack&langs_count=6&card_width=320&hide_border=true)
+![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=moltack&show_owner=false&card_width=510&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=moltack&langs_count=6&card_width=330&hide_border=true)
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=moltack&hide_border=true&border_radius=5&card_width=1000&card_height=200)
 
