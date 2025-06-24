@@ -92,5 +92,4 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=moltack&hide_border=true&border_radius=10&card_width=1000&card_height=200)
 
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=footer&reversal=true)
