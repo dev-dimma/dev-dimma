@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=47&animation=fadeIn&fontColor=f7ead1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=47&animation=scaleIn&fontColor=f7ead1)
 
-<h2>👩‍💻&nbsp;A little bit about me and my interests</h2>
+<p align="center"><img src="https://streak-stats.demolab.com?user=dev-dimma&theme=vision-friendly-dark" alt="dev-dimma's streak" /></p>
+
+<h2>A little bit about me and my interests</h2>
 <p align="left">
   
 ```yaml
@@ -41,7 +43,7 @@ strengths: ["Fast Learning and Adaptability, Problem solving, Teamwork,
 hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 ```
 
-<h2> 🚀 &nbsp;Tech Stack and Tools I Have Used and Mastered</h2>
+<h2>Tech Stack and Tools I Have Used and Mastered</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" />
@@ -58,23 +60,23 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45" />  
 </p>
 
-[![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=vision-friendly-dark&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=vision-friendly-dark)
+<h2>My GitHub History</h2>
+<p align="left">
+  
+![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=vision-friendly-dark&show_owner=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=vision-friendly-dark&langs_count=6)
+
+<h2>Let's Connect And Chat</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/dimma-joel-technology-frontend-developer-dev-dimma-technical-writer/overlay/background-image/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="dimma's linkedin" height="40" width="40" /></a>
+<a href="https://x.com/devdimma" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" color="white" alt="dimma's X" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100070534024304" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="dimma's facebook" height="40" width="40" /></a>
+
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+</p>
+
+
+            
+          
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=footer&reversal=true)
-
-
-<!--
-**dev-dimma/dev-dimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
