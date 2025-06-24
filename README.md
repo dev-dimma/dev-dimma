@@ -24,7 +24,7 @@
 
 ---
 
-<h2>A little bit about me and my interests</h2>
+<h2>A Little Bit About Me And My Interests</h2>
 <p align="left">
   
 ```yaml
@@ -85,9 +85,11 @@ hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 <h2>My GitHub History</h2>
 <p align="left">
   
-![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=vision-friendly-dark&show_owner=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=vision-friendly-dark&langs_count=6)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=5000&card_height=200)](https://git.io/streak-stats)
+![Dimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dimma&show_icons=true&theme=moltack&show_owner=false&card_width=600&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dimma&layout=compact&theme=moltack&langs_count=6&card_width=400&hide_border=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dimma&label=Profile%20views&color=0e75b6&style=flat" alt="dimma-joel" /> </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-dimma&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=1000&card_height=200)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=footer&reversal=true)
