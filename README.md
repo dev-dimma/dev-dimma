@@ -60,7 +60,7 @@ non_technical_background:
   ]
 
 strengths: ["Fast Learning and Adaptability, Problem solving, Teamwork,
-            Detail and Result Oriented, Smart and Fun, Communication"]
+            Detail and Result Oriented, Communication, Smart and Fun"]
 hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
 ```
 
