@@ -31,7 +31,7 @@
 name: Dimma Joel
 nickname: Dev Dimma
 located_in: Nigeria, Africa
-profession: Software Engineer
+proffession: Software Engineer
 education:
 [ "Self-taught developer",
   "SheCodes Alumni",
@@ -41,7 +41,6 @@ company: Thrive Tech Africa
 fields_of_interests:
   [
     "Web Development",
-    "Blockchain development",
     "Founding & Scaling Startups",
   ]
 technical_background:
