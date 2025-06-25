@@ -61,7 +61,7 @@ non_technical_background:
 
 strengths: ["Fast Learning and Adaptability, Problem solving, Teamwork,
             Detail and Result Oriented, Communication, Smart and Fun"]
-hobbies: ["Movies", "Cooking", "Writing", "Brainstorming", "Sleeping"]
+hobbies: ["Movies", "Brainstorming", "Cooking", "Writing", "Sleeping"]
 ```
 
 <h2>Tech Stack and Tools I Have Used and Mastered</h2>
