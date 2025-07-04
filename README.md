@@ -33,7 +33,8 @@ nickname: Dev Dimma
 located_in: Nigeria, Africa
 proffession: Software Engineer
 education:
-[ "Self-taught developer",
+[ "Havard CS50 Undergraduate",
+  "Self-taught developer",
   "SheCodes Alumni",
 ]
 company: Thrive Tech Africa
@@ -41,12 +42,13 @@ company: Thrive Tech Africa
 fields_of_interests:
   [
     "Web Development",
+    "Frontend Development",
     "Founding & Scaling Startups",
   ]
 technical_background:
   [
     "Frontend Developer"
-    "Qaulity Assurance Specialist",
+    "Quality Assurance Specialist",
   ]
 non_technical_background:
   [
