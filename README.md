@@ -67,6 +67,8 @@ hobbies: ["Movies", "Brainstorming", "Cooking", "Writing", "Sleeping"]
 ```
 
 <h2>Tech Stack and Tools I Have Used and Mastered</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimma-joel&label=Profile%20views&color=0e75b6&style=flat" alt="dimma-joel" /> </p>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" />
