@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=47&animation=scaleIn&fontColor=f7ead1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7ead1,50:7A4E3B,100:412120&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=50&animation=scaleIn&fontColor=f7ead1)
 
 <h1 align="center">
   Let's connect and chat!💬
@@ -33,7 +33,7 @@ nickname: Dev Dimma
 located_in: Nigeria, Africa
 proffession: Software Engineer
 education:
-[ "Havard CS50 Undergraduate",
+[ "CS50 Undergraduate",
   "Self-taught developer",
   "SheCodes Alumni",
 ]
@@ -68,7 +68,7 @@ hobbies: ["Movies", "Brainstorming", "Cooking", "Writing", "Sleeping"]
 
 <h2>Tech Stack and Tools I Have Used and Mastered</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimma-joel&label=Profile%20views&color=0e75b6&style=flat" alt="dimma-joel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dimma&label=Profile%20views&color=0e75b6&style=flat" alt="dimma-joel" /> </p>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" />
